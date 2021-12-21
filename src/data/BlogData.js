@@ -32,5 +32,14 @@ export const Blogs = [
         date:"7 Nov, 2021",
         imgSrc:"https://photos.google.com/share/AF1QipNLh-doYSnOSzoOnZ_W_JiTUqATY951D-Lx7AWQH_pMdnTKFjdbOJqZqtPXI6qMIQ/photo/AF1QipN1dn7Ixddz8rcR_G34i8ZJook-tUrgjouIr7i7?key=RkFsNjVlQTEyRTd5X3loTVhVcXowWmJDcXoxcU5R",
         link:"https://medium.com/@umacgamze49/jwm-jre-and-jdk-f93449c97055"
+    } ,
+    ,
+    {
+        id:5,
+        name:"Ist NoSQL schneller als SQL?",
+        tags:["SQL","NoSQL, Database"],
+        date:"21 Dez, 2021",
+        imgSrc:"",
+        link:"https://medium.com/@umacgamze49/ist-nosql-schneller-als-sql-aed13987fb61"
     } 
 ] 
